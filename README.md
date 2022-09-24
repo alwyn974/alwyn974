@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello everyone, My name is Alwyn. I'm a 18 years old student at Epitech Reunion
+Hello everyone, My name is Alwyn. I'm a 20 years old student at Epitech Reunion
 and I mainly program Java and C. I like to watch series, and code all day.
 
 [![Alwyn974's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
