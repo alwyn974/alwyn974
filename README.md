@@ -19,9 +19,9 @@ Here are some ideas to get you started:
     </a>
 </h1>
 
-<h2 align="center"> 
+<h3 align="center"> 
     A passionate developper from Reunion Island 🇷🇪 
-</h2>
+</h3>
 
 <!-- Contact  -->
 
