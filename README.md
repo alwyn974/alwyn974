@@ -19,10 +19,9 @@ Here are some ideas to get you started:
     </a>
 </h1>
 
-<div align="center" style="font-weight: bold; font-size: large;"> 
+<h2 align="center"> 
     A passionate developper from Reunion Island 🇷🇪 
-</div>
-<br>
+</h2>
 
 <!-- Contact  -->
 
