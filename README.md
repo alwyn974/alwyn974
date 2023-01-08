@@ -94,13 +94,31 @@ Here are some ideas to get you started:
 <summary> 📊 My Github Stats </summary>
 <br>
 
-<a href="https://www.github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alwyn974's GitHub stats"/></a>
+<details open>
+<summary>🔥 Streak Stats</summary>
+<br>
 
 <a href="https//www.github.com/alwyn974"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+</details>
+
+
+<details open>
+<summary>📈 Activity Stats</summary>
+<br>
+
+<a href="https://www.github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alwyn974's GitHub stats" height="192px" /></a>
+<a href="https://github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Most Used Languages" height="192px"/></a>
+
+> Note
+> Most Used Languages does not indicate my skill level or anything like that, it's a GitHub metric to determine which languages have the most code on GitHub.
+
+</details>
+
+
 <a href="https://www.github.com/alwyn974"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/alwyn974" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
+
 
 </details>
 
@@ -109,7 +127,7 @@ Here are some ideas to get you started:
 <br>
 
 <details open>
-<summary>⏰ Past month </summary>
+<summary>📜 Languages </summary>
 
 <a href="https://wakatime.com/@alwyn974">
     <img src="https://wakatime.com/share/@alwyn974/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px">
