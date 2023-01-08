@@ -152,6 +152,21 @@ Here are some ideas to get you started:
 </details>
 </li>
 
+<li>
+<details open>
+<summary>🏆 Github Trophies </summary>
+<br>
+
+<a href="https://github.com/alwyn974">
+<picture>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=alwyn974&column=-1&margin-w=5&margin-h=10">
+  <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=alwyn974&theme=discord&column=-1&margin-w=5&margin-h=10&no-frame=true">
+</picture>
+</a>
+
+</details>
+</li>
+
 </ul>
 
 </details>
