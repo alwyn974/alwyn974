@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://media.tenor.com/PBcGjKppnacAAAAd/pixel-art.gif" /> -->
 <!-- <img align="right" src="./resources/vertical.gif"/> -->
 
-<div style="font-size: large">
-
 - 🇷🇪 I'm from Reunion Island
 - 🎓 I'm a **3rd year student** at [Epitech](https://epitech.eu)
 - 🔭 I’m currently working on [SkyMachi](https://github.com/SkyMachi), [StreetLess](https://github.com/StreetLess)
@@ -70,8 +68,6 @@ Here are some ideas to get you started:
     - 🕵️ Cybersecurity
     - 🎞️ Movies/Series
     - 💤 Sleeping
-
-</div>
 
 <!-- yHype -->
 ![](https://hit.yhype.me/github/profile?user_id=47529956)
