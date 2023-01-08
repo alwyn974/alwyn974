@@ -94,6 +94,9 @@ Here are some ideas to get you started:
 <summary> 📊 My Github Stats </summary>
 <br>
 
+<ul>
+
+<li>
 <details open>
 <summary>🔥 Streak Stats</summary>
 <br>
@@ -101,8 +104,10 @@ Here are some ideas to get you started:
 <a href="https//www.github.com/alwyn974"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </details>
+</li>
 
 
+<li>
 <details open>
 <summary>📈 Activity Stats</summary>
 <br>
@@ -114,7 +119,9 @@ Here are some ideas to get you started:
 > Most Used Languages does not indicate my skill level or anything like that, it's a GitHub metric to determine which languages have the most code on GitHub.
 
 </details>
+</li>
 
+<li>
 <details>
 <summary>🎀 Commit Stats </summary>
 <br>
@@ -122,6 +129,9 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/alwyn974"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </details>
+</li>
+
+</ul>
 
 </details>
 
@@ -129,6 +139,9 @@ Here are some ideas to get you started:
 <summary> 📊 My Wakatime Stats </summary>
 <br>
 
+<ul>
+
+<li>
 <details open>
 <summary>📜 Languages </summary>
 
@@ -137,7 +150,9 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+</li>
 
+<li>
 <details open>
 <summary>✍️ Coding activity </summary>
 
@@ -146,7 +161,9 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+</li>
 
+<li>
 <details open>
 <summary>🖥️ IDEs & OS </summary>
 <br>
@@ -156,22 +173,14 @@ Here are some ideas to get you started:
 | <a href="https://wakatime.com/@alwyn974"> <img src="https://wakatime.com/share/@alwyn974/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@alwyn974"> <img src="https://wakatime.com/share/@alwyn974/4aae9f89-b11f-4937-8612-bb2d9a528230.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
 
 </details>
+</li>
+
+</ul>
+
+</details>
 
 <br>
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" title="Built With Love" />
   <img src="https://img.shields.io/badge/By-Alwyn974-38c1d0?style=for-the-badge&logo=github" alt="By Alwyn974" title="By Alwyn974" height="35" />
 </div>
-
-
-<!-- <details>
-<summary style="font-size: x-large"> ⏳ In the last 30 days </summary>
-
-<div align="center">
-    <a href="https://wakatime.com/alwyn974">
-        <img src="https://wakatime.com/share/@alwyn974/09d81be1-49eb-4921-8ee5-cfad244fae12.svg" alt="Coding Activity over the last 30 days (White)">
-        <img src="https://wakatime.com/share/@alwyn974/b4630578-87f7-4b58-9870-58e094d04ecc.svg">
-    </a>
-</div>
-
-</details> -->
