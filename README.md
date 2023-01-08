@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     </a>
 </h1>
 
-<h3 align="center"> 
-    A passionate developper from Reunion Island 🇷🇪 
+<h3 align="center">
+    A passionate developper from Reunion Island 🇷🇪
 </h3>
 
 <!-- Contact  -->
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- Thanks to https://codepen.io/sosuke/pen/Pjoqqp for the svg trick (doesn't work on github) -->
 <div align="center">
     <a href="https://discord.com/users/249107964336537600" title="My Discord">
-        <img src="https://img.shields.io/static/v1?label=Discord&message=!+alwyn974%230001&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - ! alwyn974#0001"> 
+        <img src="https://img.shields.io/static/v1?label=Discord&message=!+alwyn974%230001&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - ! αℓωүη974#0001">
         <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" height="40" width="40" style="filter: invert(35%) sepia(38%) saturate(3969%) hue-rotate(224deg) brightness(98%) contrast(94%);"> -->
     <a>
     &#8287;&#8287; <!-- special whitespace for indent -->
@@ -110,21 +110,29 @@ Here are some ideas to get you started:
 
 <details open>
 <summary>⏰ Past month </summary>
-    
-<a href="https://wakatime.com/@alwyn974"> 
-    <img src="https://wakatime.com/share/@alwyn974/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg"> 
+
+<a href="https://wakatime.com/@alwyn974">
+    <img src="https://wakatime.com/share/@alwyn974/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px">
 </a>
 
 </details>
-    
+
 <details open>
 <summary>✍️ Coding activity </summary>
-    
-<a href="https://wakatime.com/@alwyn974"> 
-    <img src="https://wakatime.com/share/@alwyn974/9e35e40b-ace7-4571-88e1-e986c4128ee5.svg"> 
-</a> 
+
+<a href="https://wakatime.com/@alwyn974">
+    <img src="https://wakatime.com/share/@alwyn974/9e35e40b-ace7-4571-88e1-e986c4128ee5.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px">
+</a>
 
 </details>
+
+<details open>
+<summary>🖥️ IDEs & OS </summary>
+<br>
+
+| IDEs | OS |
+| --- | --- |
+| <a href="https://wakatime.com/@alwyn974"> <img src="https://wakatime.com/share/@alwyn974/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px"> </a> | <a href="https://wakatime.com/@alwyn974"> <img src="https://wakatime.com/share/@alwyn974/4aae9f89-b11f-4937-8612-bb2d9a528230.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px"> </a> |
 
 </details>
 
