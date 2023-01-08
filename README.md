@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <a href="https//www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
   <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </picture>
 </a>
@@ -119,13 +119,13 @@ Here are some ideas to get you started:
 
 <a href="https//www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&show_icons=true&card_width=450px">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&show_icons=true&card_width=450px">
   <img alt="alwyn974's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450px" height="192px" />
 </picture>
 </a>
 <a href="https//www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=250px">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=250px">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=250px" height="192px" />
 </picture>
 </a>
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 <a href="https//www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=ffffff&color=333333&line=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=ffffff&color=333333&line=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
   <img alt="GitHub Commits Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </picture>
 </a>
