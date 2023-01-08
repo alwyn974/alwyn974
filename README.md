@@ -107,15 +107,21 @@ Here are some ideas to get you started:
 <summary>📈 Activity Stats</summary>
 <br>
 
-<a href="https://www.github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alwyn974's GitHub stats" height="192px" /></a>
-<a href="https://github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=200px" alt="Most Used Languages" height="192px" /></a>
+<a href="https://www.github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450px" alt="alwyn974's GitHub stats" height="192px" /></a>
+<a href="https://github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=250px" alt="Most Used Languages" height="192px" /></a>
 
 > **Note**
 > Most Used Languages does not indicate my skill level or anything like that, it's a GitHub metric to determine which languages have the most code on GitHub.
 
 </details>
 
+<details>
+<summary>🎀 Commit Stats </summary>
+<br>
+
 <a href="https://www.github.com/alwyn974"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+</details>
 
 </details>
 
