@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <div style="font-size: large">
 
 - 🇷🇪 I'm from Reunion Island
-- 🎓 I'm a **3rd year student** at @Epitech
+- 🎓 I'm a **3rd year student** at [Epitech](https://epitech.eu)
 - 🔭 I’m currently working on [SkyMachi](https://github.com/SkyMachi), [StreetLess](https://github.com/StreetLess)
 - 🌱 Nowadays I'm learning **Rust**
 - 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**
