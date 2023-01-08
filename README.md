@@ -75,22 +75,58 @@ Here are some ideas to get you started:
 ## ✨ Skills
 
 <details open>
-<summary style="font-weight: bold; font-size: large"> 🛠️ Main Skills </summary>
-
+<summary> 🛠️ Main Skills </summary>
+<br>
 
 
 </details>
 
 <details>
-<summary style="font-weight: bold; font-size: large"> 🔧 Other Skills </summary>
+<summary> 🔧 Other Skills </summary>
+<br>
 
 </details>
 
 
+## 📈 Stats
 
+<details open>
+<summary> 📊 My Github Stats </summary>
+<br>
 
+<a href="https://www.github.com/alwyn974"><img src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alwyn974's GitHub stats"/></a>
 
+<a href="https//www.github.com/alwyn974"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://www.github.com/alwyn974"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alwyn974&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/alwyn974" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
+
+</details>
+
+<details>
+<summary> 📊 My Wakatime Stats </summary>
+<br>
+
+<details open>
+<summary>⏰ Past month </summary>
+    
+<a href="https://wakatime.com/@alwyn974"> 
+    <img src="https://wakatime.com/share/@alwyn974/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg"> 
+</a>
+
+</details>
+    
+<details open>
+<summary>✍️ Coding activity </summary>
+    
+<a href="https://wakatime.com/@alwyn974"> 
+    <img src="https://wakatime.com/share/@alwyn974/9e35e40b-ace7-4571-88e1-e986c4128ee5.svg"> 
+</a> 
+
+</details>
+
+</details>
 
 <br>
 <div align="center">
