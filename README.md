@@ -64,6 +64,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**
 - 📫 How to reach me: **contact@alwyn974.re**
 - ⚡ Fun fact: I'm a chipmunks 🐿
+- 👀 My Hobbies:
+    - 🎮 Gaming
+    - 🖥️ Programming
+    - 🕵️ Cybersecurity
+    - 🎞️ Movies/Series
+    - 💤 Sleeping
 
 </div>
 
