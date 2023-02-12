@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <!-- yHype -->
 ![](https://hit.yhype.me/github/profile?user_id=47529956)
 
-## ✨ Skills
+## ✨ Skills & 🔨 Tools
 
 <details open>
 <summary> 🛠️ Main Skills </summary>
