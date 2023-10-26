@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </a>
     &#8287;&#8287;
     <a href="mailto:contact@alwyn974.re" title="My Pro E-Mail">
-       <img src="https://img.shields.io/static/v1?label=Mail&message=contact%40alwyn974.re&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="Mail - contact@alwyn974.re" />
+       <img src="https://img.shields.io/static/v1?label=E-Mail&message=contact%40alwyn974.re&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="E-Mail - contact@alwyn974.re" />
        <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="40" width="40" style="filter: invert(13%) sepia(65%) saturate(6092%) hue-rotate(356deg) brightness(95%) contrast(94%)"> -->
     </a>
     <br>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - 🇷🇪 I'm from Reunion Island
 - 🎓 I'm a **4th year student** at [Epitech](https://epitech.eu) and I'm an exchange student at Keimyung University (Korea)
-- 🔭 I’m currently working on [SkyMachi](https://github.com/SkyMachi), [StreetLess](https://github.com/StreetLess)
+- 🔭 I’m currently working on [SkyMachi](https://github.com/SkyMachi), [EnVRonment](https://github.com/StreetLess)
 - 🌱 Nowadays I'm learning **Rust**
 - 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**
 - 📫 How to reach me: **contact@alwyn974.re**
