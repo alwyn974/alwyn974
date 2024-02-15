@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <!-- Thanks to https://codepen.io/sosuke/pen/Pjoqqp for the svg trick (doesn't work on github) -->
 <div align="center">
-    <a href="https://discord.com/users/249107964336537600" title="My Discord">
-        <img src="https://img.shields.io/static/v1?label=Discord&message=!+alwyn974%230001&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - ! αℓωүη974#0001" />
+    <a href="https://discord.com/users/alwyn974" title="My Discord">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=alwyn974&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - alwyn974" />
         <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" height="40" width="40" style="filter: invert(35%) sepia(38%) saturate(3969%) hue-rotate(224deg) brightness(98%) contrast(94%);"> -->
     <a>
     &#8287;&#8287; <!-- special whitespace for indent -->
