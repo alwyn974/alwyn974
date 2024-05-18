@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="./resources/vertical.gif"/> -->
 
 - 🇷🇪 I'm from Reunion Island
-- 🎓 I'm a **4th year student** at [Epitech](https://epitech.eu) and I'm an exchange student at Keimyung University (Korea)
+- 🎓 I'm a **4th year student** at [Epitech](https://epitech.eu) and I'm an exchange student at [계명대학교 (Keimyung University)](https://www.kmu.ac.kr/) in Korea
 - 🔭 I’m currently working on [EnVRonment](https://github.com/StreetLess)
 - 🌱 Nowadays I'm learning **Rust**
 - 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**, **TypeScript**, **JavaScript**
@@ -125,8 +125,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=250px">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact&card_width=250px" height="192px"/>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact" height="192px"/>
 </picture>
 </a>
 <br>
