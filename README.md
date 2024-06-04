@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 🎓 I'm a **4th year student** at [Epitech](https://epitech.eu) and I'm an exchange student at [계명대학교 (Keimyung University)](https://www.kmu.ac.kr/) in Korea
 - 🔭 I’m currently working on [EnVRonment](https://github.com/StreetLess)
 - 🌱 Nowadays I'm learning **Rust**
-- 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**, **TypeScript**, **JavaScript**
+- 💬 Ask me about **Java**, **Kotlin**, **C**, **C++**, **TypeScript**, **JavaScript**, **Docker**
 - 📫 How to reach me: **contact@alwyn974.re**
 - ⚡ Fun fact: I'm a chipmunks 🐿
 - 👀 My Hobbies:
