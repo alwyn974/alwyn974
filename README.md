@@ -120,13 +120,13 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/alwyn974">
 <picture>
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&card_width=450px">
-  <img alt="alwyn974's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&card_width=450px" height="192px" />
+  <img alt="alwyn974's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alwyn974&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&card_width=450px" height="200px" />
 </picture>
 </a>
 <a href="https://www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact" height="192px"/>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=320px">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact&card_width=320px" height="200px"/>
 </picture>
 </a>
 <br>
