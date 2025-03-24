@@ -42,6 +42,9 @@ Here are some ideas to get you started:
        <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="40" width="40" style="filter: invert(13%) sepia(65%) saturate(6092%) hue-rotate(356deg) brightness(95%) contrast(94%)"> -->
     </a>
     <br>
+    <a href="https://wakatime.com/@alwyn974">
+        <img src="https://wakatime.com/badge/user/6322226a-228c-4595-b022-cc310f17c42a.svg?style=for-the-badge" alt="Total time coded since Aug 27 2021" />
+    </a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
         <img src="https://komarev.com/ghpvc/?username=alwyn974&style=for-the-badge" alt="Profile Views">
     </a>
