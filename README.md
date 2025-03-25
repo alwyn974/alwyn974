@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-> **Note**
+> [!NOTE]
 > Most Used Languages does not indicate my skill level or anything like that, it's a GitHub metric to determine which languages have the most code on GitHub.
 
 </details>
@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 </picture>
 </a>
 
-> **Note**
+> [!NOTE]
 >  Wakatime Stats does not indicate my skill level or anything like that, it's just a metric that show which languages I've spent the most time on the last 7 days.
 </li>
 
