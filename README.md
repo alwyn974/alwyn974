@@ -29,17 +29,14 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://discord.com/users/249107964336537600" title="My Discord">
         <img src="https://img.shields.io/static/v1?label=Discord&message=alwyn974&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - alwyn974" />
-        <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" height="40" width="40" style="filter: invert(35%) sepia(38%) saturate(3969%) hue-rotate(224deg) brightness(98%) contrast(94%);"> -->
     <a>
     &#8287;&#8287; <!-- special whitespace for indent -->
     <a href="https://twitter.com/alwyn974" title="My Twitter">
         <img src="https://img.shields.io/static/v1?label=Twitter&message=alwyn974&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter - alwyn974" />
-        <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" height="40" width="40" style="filter: invert(53%) sepia(21%) saturate(5257%) hue-rotate(176deg) brightness(99%) contrast(91%);"> -->
     </a>
     &#8287;&#8287;
     <a href="mailto:contact@alwyn974.re" title="My Pro E-Mail">
        <img src="https://img.shields.io/static/v1?label=E-Mail&message=contact%40alwyn974.re&color=3e65cf&style=for-the-badge&logo=gmail&logoColor=c71610" alt="E-Mail - contact@alwyn974.re" />
-       <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="40" width="40" style="filter: invert(13%) sepia(65%) saturate(6092%) hue-rotate(356deg) brightness(95%) contrast(94%)"> -->
     </a>
     <br>
     <a href="https://wakatime.com/@alwyn974">
