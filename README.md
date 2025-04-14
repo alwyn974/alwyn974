@@ -49,14 +49,8 @@ Here are some ideas to get you started:
 
 ## 📝 About me
 
-<!-- <img align="right" src="https://64.media.tumblr.com/9ca4a2538e8fb61842aeebcbef3d9435/50fb637a17cfb891-a1/s640x960/c5aaef27140a7acb5442a25f5891d8d3afb0e9f4.gif" height="350" width="280" alt="loading-gif" title="it8Bit on Tumblr" /> -->
-<!-- <img align="right" src="https://media3.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" /> -->
-<!-- <img align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif" /> -->
-<!-- <img align="right" src="https://media.tenor.com/PBcGjKppnacAAAAd/pixel-art.gif" /> -->
-<!-- <img align="right" src="./resources/vertical.gif"/> -->
-
 - 🇷🇪 I'm from Reunion Island
-- 🎓 I'm a **5th year student** at [Epitech](https://epitech.eu) 
+- 🎓 I'm a **5th year student** at [Epitech](https://epitech.eu)
 - 🎓 I was an exchange student at [계명대학교 (Keimyung University)](https://www.kmu.ac.kr/) in Korea in 2023-2024
 - 🔭 I’m currently working at [Maureva](https://maureva.com)
 - 🌱 Nowadays I'm learning **Rust**
