@@ -98,8 +98,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.github.com/alwyn974">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=alwyn974&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
-  <img alt="Github Streak Stats" src="https://streak-stats.demolab.com/?user=alwyn974&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streaks.alwyn974.re/?user=alwyn974&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
+  <img alt="Github Streak Stats" src="https://streaks.alwyn974.re/?user=alwyn974&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </picture>
 </a>
 
