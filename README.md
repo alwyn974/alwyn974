@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 📝 About me
 
 - 🇷🇪 I'm from Reunion Island
-- 🎓 I'm a **5th year student** at [Epitech](https://epitech.eu)
+- 🎓 I’m a **graduate** of [Epitech](https://epitech.eu) (2025)
 - 🎓 I was an exchange student at [계명대학교 (Keimyung University)](https://www.kmu.ac.kr/) in Korea in 2023-2024
 - 🔭 I’m currently working on [NeoTamia](https://github.com/NeoTamia)
 - 🌱 Nowadays I'm learning **Rust**
