@@ -236,6 +236,6 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" title="Built With Love" />
-  <img src="https://img.shields.io/badge/By-Alwyn974-38c1d0?style=for-the-badge&logo=github" alt="By Alwyn974" title="By Alwyn974" height="35" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" title="Built With Love" height="28" />
+  <img src="https://img.shields.io/badge/By-Alwyn974-38c1d0?style=for-the-badge&logo=github" alt="By Alwyn974" title="By Alwyn974" />
 </div>
