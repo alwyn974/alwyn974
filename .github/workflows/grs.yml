@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&card_width=450px
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2
+          options: username=${{ github.repository_owner }}&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&card_width=450px
           path: profile/stats-light.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact
+          options: username=${{ github.repository_owner }}&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact&card_width=320px
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -41,7 +41,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact
+          options: username=${{ github.repository_owner }}&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=320px
           path: profile/top-langs-light.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -57,7 +57,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=alwyn974&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en
+          options: username=alwyn974&layout=compact&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en
           path: profile/wakatime-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
