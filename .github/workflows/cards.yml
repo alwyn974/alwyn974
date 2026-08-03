@@ -21,14 +21,14 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true
           path: profile/streak.svg
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats (Light)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&ring=0891b2&fire=0891b2&currStreakLabel=0891b2
           path: profile/streak-light.svg
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (Dark)
         uses: stats-organization/github-readme-stats-action@v2
