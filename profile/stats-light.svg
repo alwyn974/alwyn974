@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alwyn974&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 159, Total Commits  (last year) : 3507, Total PRs: 179, Total Issues: 29, Contributed to (last year): 63</desc>
+        <desc id="descId">Total Stars Earned: 159, Total Commits  (last year) : 3549, Total PRs: 179, Total Issues: 29, Contributed to (last year): 63</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.10588526440247;
+        stroke-dashoffset: 59.10560963000908;
       }
     }
   
